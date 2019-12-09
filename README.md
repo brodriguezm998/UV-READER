@@ -60,7 +60,7 @@ The solmaforo values are constracted (set equipment and the great structure) of 
 </p>
 
 
-<strong>Download APK:</strong> http://bit.ly/Uv-Reader-Apk-Ingles
+<strong>Download APK:</strong> https://bit.ly/2s73cSm
 
 <strong>Video Project NeBla:</strong> http://bit.ly/Video-NeBla-Project
 
