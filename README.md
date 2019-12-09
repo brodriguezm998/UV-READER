@@ -1,4 +1,4 @@
-# UV-Reader
+<h1 align="center"> UV-Reader</h1>
 <h1 align="justify">Portable device and mobile application for the detection of ultraviolet radiation in real time with a low cost sensor in Arduino.</h1>
    
 <p align="justify">
