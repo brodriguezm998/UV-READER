@@ -8,7 +8,7 @@ The data processing is shown in the upper right in an option called reporting; i
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Interface-UvReader.PNG">
-    <img src="https://github.com/nvieras/NeBla/raw/master/ImagenesNebla/Interface-UvReader.PNG" alt="" style="max-width:100%;">
+    <img src="https://github.com/brodriguezm998/UV-Reader/raw/master/ImagenesUVReader/Interface-UvReader.PNG" alt="" style="max-width:100%;">
   </a>
 </p>
 
