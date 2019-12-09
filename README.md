@@ -56,9 +56,7 @@ The solmaforo values are constracted (set equipment and the great structure) of 
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/Mediciones/Inamhi-vs-UVReader.png">
     <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/Mediciones/Inamhi-vs-UVReader.png" alt="" style="max-width:100%;">
-  </a>
 </p>
 
 
