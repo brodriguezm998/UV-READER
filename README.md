@@ -30,9 +30,7 @@ The UV-Reader kit consists of a portable device and mobile application.  NeBla h
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Nebla-PieFoto.png">
-    <img src="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Nebla-PieFoto.png" alt="" style="max-width:100%;">
-  </a>
+   <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/ImagenesUVReader/Nebla-PieFoto.png" alt="" style="max-width:100%;">
 </p>
 
 <h2 align="center"> UV levels and index categorization.</h2>
