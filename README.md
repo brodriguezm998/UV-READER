@@ -20,8 +20,8 @@ The UV lamp can be found in the following link: http://bit.ly/LamparaUV-Amazon
 
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Kit-UvReader-NeBla.PNG">
-    <img src="https://github.com/nvieras/NeBla/blob/master/ImagenesNebla/Kit-UvReader-NeBla.PNG" alt="" style="max-width:100%;">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/brodriguezm998/UV-Reader/blob/master/ImagenesUVReader/Kit-UvReader-NeBla.PNG">
+    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/ImagenesUVReader/Kit-UvReader-NeBla.PNG" alt="" style="max-width:100%;">
   </a>
 </p>
 
