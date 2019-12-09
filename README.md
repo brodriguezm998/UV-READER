@@ -7,9 +7,7 @@ The data processing is shown in the upper right in an option called reporting; i
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/brodriguezm998/UV-Reader/blob/master/ImagenesUVReader/Interface-UvReader.PNG">
-    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/ImagenesUVReader/Interface-UvReader.PNG" alt="" style="max-width:100%;">
-  </a>
+   <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/ImagenesUVReader/Interface-UvReader.PNG" alt="" style="max-width:100%;">
 </p>
 
 <p align="justify">
@@ -20,9 +18,7 @@ The UV lamp can be found in the following link: http://bit.ly/LamparaUV-Amazon
 
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/brodriguezm998/UV-Reader/blob/master/ImagenesUVReader/Kit-UvReader-NeBla.PNG">
     <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/ImagenesUVReader/Kit-UvReader-NeBla.PNG" alt="" style="max-width:100%;">
-  </a>
 </p>
 
 <p align="justify">
@@ -42,9 +38,7 @@ The World Health Organization (WHO) categorize the radiation levels (ultraviolet
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/Mediciones/Tabla-Colores.PNG">
-    <img src="https://github.com/nvieras/NeBla/blob/master/Mediciones/Tabla-Colores.PNG" alt="" style="max-width:100%;">
-  </a>
+    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/Mediciones/Tabla-Colores.PNG" alt="" style="max-width:100%;">
 </p>
 
 <h2 align="center">Measurements made.</h2>
@@ -54,9 +48,7 @@ In order to have index values of UV radiation levels and confirmation of equipme
 </p>
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/Mediciones/North-vs-South.png">
-    <img src="https://github.com/nvieras/NeBla/blob/master/Mediciones/North-vs-South.png" alt="" style="max-width:100%;">
-  </a>
+    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/Mediciones/North-vs-South.png" alt="" style="max-width:100%;">
 </p>
 
 <p align="justify">
@@ -65,7 +57,7 @@ The solmaforo values are constracted (set equipment and the great structure) of 
 
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/nvieras/NeBla/blob/master/Mediciones/Inamhi-vs-UVReader.png">
-    <img src="https://github.com/nvieras/NeBla/blob/master/Mediciones/Inamhi-vs-UVReader.png" alt="" style="max-width:100%;">
+    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/Mediciones/Inamhi-vs-UVReader.png" alt="" style="max-width:100%;">
   </a>
 </p>
 
