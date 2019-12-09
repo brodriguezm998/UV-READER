@@ -38,7 +38,7 @@ The World Health Organization (WHO) categorize the radiation levels (ultraviolet
 </p>
 
 <p align="center">
-    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/Mediciones/Tabla-Colores.PNG" alt="" style="max-width:100%;">
+    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/measurements/Tabla-Colores.PNG" alt="" style="max-width:100%;">
 </p>
 
 <h2 align="center">Measurements made.</h2>
@@ -48,7 +48,7 @@ In order to have index values of UV radiation levels and confirmation of equipme
 </p>
 
 <p align="center">
-    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/Mediciones/North-vs-South.png" alt="" style="max-width:100%;">
+    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/measurements/North-vs-South.png" alt="" style="max-width:100%;">
 </p>
 
 <p align="justify">
@@ -56,7 +56,7 @@ The solmaforo values are constracted (set equipment and the great structure) of 
 </p>
 
 <p align="center">
-    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/Mediciones/Inamhi-vs-UVReader.png" alt="" style="max-width:100%;">
+    <img src="https://github.com/brodriguezm998/UV-Reader/blob/master/measurements/Inamhi-vs-UVReader.png" alt="" style="max-width:100%;">
 </p>
 
 
